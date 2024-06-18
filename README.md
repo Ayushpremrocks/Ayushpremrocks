@@ -1,5 +1,5 @@
 # 💫 About Me:
-Myself Ayush Prem<br>A passionate frontend developer from Greater Noida, Uttar Pradesh, India.<br>I am currently a 1st Year Undergraduate at Chandigarh University and a former Kendriya Vidyalaya Alumni.<br>🔭 I’m currently working on light frontend and ML related projects.<br>🌱 I’m currently learning ML and DSA using Java<br>💬 Contact me on my LinkedIn or Instagram
+Myself Ayush Prem<br>Greater Noida, Uttar Pradesh, India<br>Sophomore @ Chandigarh University || Alumni @kendriya Vidyalaya<br>🔭 Currently working on light frontend and ML projects<br>🌱 Learning ML and DSA using Java<br>💬 Contact me on LinkedIn or Instagram
 
 
 ## 🌐 Socials:
