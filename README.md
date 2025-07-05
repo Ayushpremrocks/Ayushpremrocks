@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ayush Prem</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | ML Enthusiast</h3>
+<h3 align="center">Data Structures & Algorithms | Web Development | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Web+%26+AI+Solutions;Lifelong+Learner;Open+Source+Contributor;DSA+%7C+MERN+%7C+ML+%7C+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github;Building+Web+%26+ML+products;Always+learning;Open+Source+Contributor;I+luv+solving+problems;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-- 🎓 CSE student at **Chandigarh University** (2023–2027)  
-- 🔭 Building projects in **Web Dev, FastAPI**, and **Machine Learning**
-- 🌱 Currently learning **MERN stack**, **Docker**, and **Cloud fundamentals**
-- 💬 Ask me about **DSA**, **Full-Stack Development**, and **AI use-cases**
-- 🧠 I love solving real-world problems with code  
-- ⚡ Alumnus of Kendriya Vidyalaya
+
+- 👨‍🎓 Sophomore @ **Chandigarh University**, Computer Science major
+- 🚧 Currently learning the **MERN Stack**, containerizing with **Docker**, and exploring the ☁️
+- 🧩 Love cracking **DSA problems** & grinding on **CP platforms** (LeetCode, Codeforces, etc.)
+- 🧠 Brain = { Full-Stack Dev, Clean Code, Real-world Problem Solving }
+- 🛠️ If it’s tech — I want to build it. If it’s broken — I want to fix it.
+- 🏫 Ex-KVian | ✨ Still curious like a 6th grader with a compiler
 
 ---
 
@@ -51,6 +52,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 
 #### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
