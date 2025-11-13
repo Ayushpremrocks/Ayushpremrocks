@@ -67,7 +67,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ayushpremrocks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushpremrocks&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpremrocks&layout=compact&langs_count=16&theme=dark&size_weight=0.5&count_weight=0.7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpremrocks&layout=compact&langs_count=30&theme=dark&size_weight=0.5&count_weight=0.7)
 
 ---
 
