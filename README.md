@@ -92,10 +92,8 @@ I'm a pre-final year Computer Science student at Chandigarh University with a pa
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushpremrocks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpremrocks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117) |
-| --- | --- |
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushpremrocks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="Stats Graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushpremrocks&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" height="170" alt="Languages Graph"/>
 </div>
 
 <p align="center">
