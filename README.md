@@ -116,6 +116,10 @@ I'm a pre-final year Computer Science student at Chandigarh University with a pa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpremrocks&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff41/ayushpremrocks" alt="GitHub Contribution Chart" width="95%" />
+</p>
+
 ---
 
 ## 💭 Random Dev Quote
