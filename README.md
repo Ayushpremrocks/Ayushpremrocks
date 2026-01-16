@@ -96,10 +96,6 @@ I'm a pre-final year Computer Science student at Chandigarh University with a pa
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushpremrocks&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" height="170" alt="Languages Graph"/>
 </div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushpremrocks&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
